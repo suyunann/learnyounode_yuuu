@@ -1,5 +1,5 @@
 const fs = require("fs");
-const path =require('path');
+const path = require("path");
 const road = process.argv[2];
 const extName = process.argv[3];
 
